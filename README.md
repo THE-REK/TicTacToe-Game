@@ -1,8 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  
 
-## Available Scripts
+## Tic Tac Toe Game
 
-In the project directory, you can run:
+it's the simple tic tac toe game. Built with only react.
 
 ### `npm start`
 
