@@ -3,6 +3,7 @@
 ## Tic Tac Toe Game
 
 it's the simple tic tac toe game. Built with only react.
+![](tictactoe.gif)
 
 ### `npm start`
 
